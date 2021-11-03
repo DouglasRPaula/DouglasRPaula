@@ -1,4 +1,4 @@
-## Olá, Eu sou o Douglas Rodrigues, prazer!
+## -                                                     Olá, Eu sou o Douglas Rodrigues, prazer!
 
 - 🔭 Estou atualmente em busca de empregos na area de Desenvolvimento front-end
 - 🌱 Estudando Reactjs
