@@ -1,7 +1,5 @@
 ## -                                                     Olá, Eu sou o Douglas Rodrigues, prazer!
-
-- 🔭 Estou atualmente em busca de empregos na area de Desenvolvimento front-end
-- 🌱 Estudando Reactjs
+- 🌱 desenvolvedor front-end, atualmente estudando nodejs / express / mongodb
 
 <div align="center">
   <a href="https://github.com/DouglasRPaula">
