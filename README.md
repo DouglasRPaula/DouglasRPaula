@@ -1,5 +1,5 @@
 ## -                                                     Olá, Eu sou o Douglas Rodrigues, prazer!
-- 🌱 desenvolvedor front-end, atualmente estudando nodejs / express / mongodb
+- 🌱 desenvolvedor Full-stack, atualmente trabalhando na empresa SimpleLab
 
 <div align="center">
   <a href="https://github.com/DouglasRPaula">
